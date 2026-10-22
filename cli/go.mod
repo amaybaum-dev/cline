@@ -13,7 +13,7 @@ require (
 	github.com/glebarez/go-sqlite v1.22.0
 	github.com/spf13/cobra v1.8.0
 	golang.org/x/term v0.32.0
-	google.golang.org/grpc v1.75.0
+	google.golang.org/grpc v1.79.3
 	google.golang.org/protobuf v1.36.6
 )
 
